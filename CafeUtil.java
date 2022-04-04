@@ -36,7 +36,7 @@ class CafeUtil {
         System.out.println("please enter your name");
         String userName = System.console().readLine();
         System.out.println("hello, " + userName);
-        System.out.println("There are " + userName + "people in front of you");
+        System.out.println("There are " + i + "people in front of you");
 
     }
 
