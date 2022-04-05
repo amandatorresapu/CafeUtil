@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
+
 public class TestCafeUtil {
     public static void main(String[] args) { 
 
@@ -35,7 +36,7 @@ public class TestCafeUtil {
         for (int i = 0; i < 4; i++) {
             appTest.addCustomer(customers);
             System.out.println("\n");
-            customers.add(userName);
+            
         }
     }
 }
